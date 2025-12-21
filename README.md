@@ -28,3 +28,8 @@ Visi komputer
   
 ## Artikel panduan yang akan membantu saya selama pengembangan Sebuah komentar singkat yang akan membantu Anda mengingat tentang apa artikel tersebut... [kata yang dapat diklik yang akan berisi tautan] (https://link_to_the_article)
 - https://everythinguniver.se/3d-animation-discord-bot
+
+## Daftar Pengujian
+- Fungsionalitas
+- Interface/Tampilan Antarmuka
+- Kinerja/Performance
